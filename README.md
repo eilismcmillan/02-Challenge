@@ -11,7 +11,11 @@ Once opened in VS Code, users must open the terminal and run the command 'npm in
 ## Usage
 After completing the installation instructions, users must open the terminal and enter the command 'node index.js' and answer the question prompts. once completed, a logo.svg file will be created containing the generated logo. 
 
-![demo video](https://watch.screencastify.com/v/SKJNZtulAQkLzRuhUCOs)
+
+
+https://user-images.githubusercontent.com/125100127/235672739-0370a142-9484-43c1-b957-5a6e8eb65e0a.mp4
+
+
 
 ## License
 No License
